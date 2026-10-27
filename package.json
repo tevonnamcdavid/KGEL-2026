@@ -1,0 +1,1 @@
+{"name":"kgel-christmas-flipbook","version":"1.0.0","private":true,"scripts":{"dev":"node server.cjs","start":"node server.cjs","build":"node check.cjs"}}
